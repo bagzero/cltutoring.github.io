@@ -9,7 +9,7 @@ body {
 }
 
 .navbar {
-    display: flex;
+    display: sticky;
     background-color: black;
     position: sticky;
     justify-content: space-between;
