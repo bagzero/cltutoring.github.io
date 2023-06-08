@@ -217,3 +217,34 @@ nav.sticky {
   padding: 50px 0px;
 }
 
+
+
+.body2 {
+  background-color: #66315b;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.body2-text {
+    display: block;
+    align-text: center;
+    color: white;
+    font-family: georgia;
+}
+
+.body2-heading {
+    
+}
+
+.body2-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.body2-button {
+    background-color: transparent;
+    border: 1px solid red;
+}
