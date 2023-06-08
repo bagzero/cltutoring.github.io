@@ -227,6 +227,7 @@ nav.sticky {
 }
 
 .body2-text {
+      background-color: #66315b;
     display: block;
     align-text: center;
     color: white;
@@ -234,7 +235,7 @@ nav.sticky {
 }
 
 .body2-heading {
-    
+    color: white;
 }
 
 .body2-content {
